@@ -25,7 +25,7 @@ const HomePage = () => {
   let navigate = useNavigate();
   
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/6289629732919?text=Halo%2C%20saya%20ingin%20bertanya%20tentang%20SiberHack", "_blank");
+    window.open("https://wa.me/62895334299567?text=Halo%2C%20saya%20ingin%20bertanya%20tentang%20SiberHack", "_blank");
   };
 
   return (

@@ -7,7 +7,7 @@ import { WhatsAppWidget } from "react-whatsapp-widget";
 const FooterComponents = () => {
 
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/6289629732919?text=Halo%2C%20saya%20ingin%20bertanya%20tentang%20SiberHack", "_blank");
+    window.open("https://wa.me/62895334299567?text=Halo%2C%20saya%20ingin%20bertanya%20tentang%20SiberHack", "_blank");
   };
 
   return (
@@ -23,7 +23,7 @@ const FooterComponents = () => {
           <div className="no mb-1 mt-4">
             <Link className="text-decoration-none">
             <i className="fa-brands fa-whatsapp"></i>
-            <p className="m-0" onClick={handleWhatsAppClick}>+62 896-2973-2919</p>
+            <p className="m-0" onClick={handleWhatsAppClick}>+62 895-3342-99567</p>
             </Link>
           </div>
           <div className="mail">
